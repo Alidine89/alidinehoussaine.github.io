@@ -1,1 +1,32 @@
 
+# ===== SITE =====
+title: "Alidine Houssaine | Portfolio"
+description: "Étudiant ingénieur en Génie Mécatronique - ENSA Fès"
+url: "https://alidinehoussaine.github.io"
+baseurl: ""
+
+# ===== AUTEUR =====
+author:
+  name: "Alidine Houssaine"
+  email: "alidinehoussaine89@gmail.com"
+
+# ===== THEME =====
+theme: minima
+
+# ===== NAVIGATION =====
+header_pages:
+  - index.html
+
+# ===== MARKDOWN =====
+markdown: kramdown
+
+# ===== SOCIAL =====
+linkedin_username: alidine-houssaine-615a27256
+
+# ===== OPTIONS =====
+show_excerpts: true
+
+# ===== PLUGINS =====
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
